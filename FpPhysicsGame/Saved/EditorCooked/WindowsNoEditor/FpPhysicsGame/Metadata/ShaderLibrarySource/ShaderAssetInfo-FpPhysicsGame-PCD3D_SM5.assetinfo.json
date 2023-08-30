@@ -2,6 +2,36 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "79027FBDF34FC9A6402BD4E9355266EFEA9E081B",
+			"Assets": [
+				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
+			]
+		},
+		{
+			"ShaderMapHash": "4C677C082F3DCF98507A60C0927AC77006E2DA72",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "72DB7E5A6B6B725CBECAD78E7FB2CF2F8EADC9A6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "07A411D0410F6B9BBBFD3EDB44EC84532B6D7653",
+			"Assets": [
+				"/Engine/EditorMaterials/PersonaFloorMat"
+			]
+		},
+		{
+			"ShaderMapHash": "F66189E58E9591D49E1B9F27D4CB1FA726F7870E",
+			"Assets": [
+				"/Engine/EditorMaterials/GridMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F285566D3D02017410C8A764D3DE38D75A6A1D96",
 			"Assets": [
 				"/Engine/EditorMaterials/LevelGridMaterial2"
@@ -32,9 +62,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
+			"ShaderMapHash": "369CDE0E048636A0FA3A1F4A79B87B1CD7344925",
 			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "09FEE244E0247E5271591569C6304EA18B4ED1CD",
+			"Assets": [
+				"/Game/MainGame/Assets/Materials/M_CustomGlass"
 			]
 		},
 		{
@@ -50,12 +86,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E728275E86305BFF6DC77C8B1CF973DB1FB3C6C7",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Spark"
-			]
-		},
-		{
 			"ShaderMapHash": "73675733B6C9FB625BD19471C448920CFCC717FE",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
@@ -68,9 +98,46 @@
 			]
 		},
 		{
+			"ShaderMapHash": "47C40E87EBD0EE27972CDB5E91B243977D89EDFD",
+			"Assets": [
+				"/Game/MainGame/Assets/Materials/M_ProjectileFreeze"
+			]
+		},
+		{
 			"ShaderMapHash": "888FA0F09A6717FBC98CAEA29DA8E745A869D8EE",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "7D25A37961F4689423A2AB9FB791818EAFAFFA65",
+			"Assets": [
+				"/Game/MainGame/Assets/Materials/M_ProjectileFreezeWorldAligned"
+			]
+		},
+		{
+			"ShaderMapHash": "E0DC9085E3D2CF0BA052689AC89A997EE499F817",
+			"Assets": [
+				"/Game/MainGame/Assets/Materials/M_ProjectileShrink",
+				"/Game/MainGame/Assets/Materials/M_ProjectileGrow"
+			]
+		},
+		{
+			"ShaderMapHash": "B9E3576FAD619C1BC8E2843E1BE891808B84753A",
+			"Assets": [
+				"/Game/MainGame/Assets/Materials/M_ForceField"
+			]
+		},
+		{
+			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
+			"Assets": [
+				"/Game/MainGame/Assets/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "EB2A5DBA3E21D57FA75397E75BB1AFADBB0607E1",
+			"Assets": [
+				"/Game/MainGame/Assets/FPWeapon/Materials/M_FPGun"
 			]
 		},
 		{
@@ -294,6 +361,36 @@
 			"ShaderMapHash": "06849B325104BDF4BC6D12B6D5BAC371A4CECC8E",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/VertexColorViewMode_ColorOnly"
+			]
+		},
+		{
+			"ShaderMapHash": "8E3D6A14078D12752335A1ECD7D4D894DD060E44",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/ShadedLevelColorationUnlitMateri"
+			]
+		},
+		{
+			"ShaderMapHash": "0584FE9071B13AC412346EB72186E2A48B431C92",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/ShadedLevelColorationLitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5EE389FEA88F2BB74B60FA6FFE9C4F74CB1C3C5C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV"
+			]
+		},
+		{
+			"ShaderMapHash": "156069E34BC4B3B46F7DCBA9E974CFA3C02CCFEC",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/LevelColorationUnlitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3984F317968A87879420E98B3864EE6403C14B5E",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/LevelColorationLitMaterial"
 			]
 		},
 		{
@@ -720,21 +817,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "369CDE0E048636A0FA3A1F4A79B87B1CD7344925",
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_AssetPlatform"
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "E728275E86305BFF6DC77C8B1CF973DB1FB3C6C7",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
 			]
 		},
 		{
 			"ShaderMapHash": "2E8420907651514121F81FBBC05B805804ECB455",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Copper"
-			]
-		},
-		{
-			"ShaderMapHash": "EB2A5DBA3E21D57FA75397E75BB1AFADBB0607E1",
-			"Assets": [
-				"/Game/MainGame/Assets/FPWeapon/Materials/M_FPGun"
 			]
 		},
 		{
@@ -756,69 +853,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3984F317968A87879420E98B3864EE6403C14B5E",
+			"ShaderMapHash": "5558532C15914C109C847A171119729CEFFCDD07",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/LevelColorationLitMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "156069E34BC4B3B46F7DCBA9E974CFA3C02CCFEC",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/LevelColorationUnlitMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "5EE389FEA88F2BB74B60FA6FFE9C4F74CB1C3C5C",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV"
-			]
-		},
-		{
-			"ShaderMapHash": "0584FE9071B13AC412346EB72186E2A48B431C92",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/ShadedLevelColorationLitMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "8E3D6A14078D12752335A1ECD7D4D894DD060E44",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/ShadedLevelColorationUnlitMateri"
-			]
-		},
-		{
-			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
-			"Assets": [
-				"/Game/MainGame/Assets/Character/Materials/M_UE4Man_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "47C40E87EBD0EE27972CDB5E91B243977D89EDFD",
-			"Assets": [
-				"/Game/MainGame/Assets/Materials/M_ProjectileFreeze"
-			]
-		},
-		{
-			"ShaderMapHash": "7D25A37961F4689423A2AB9FB791818EAFAFFA65",
-			"Assets": [
-				"/Game/MainGame/Assets/Materials/M_ProjectileFreezeWorldAligned"
-			]
-		},
-		{
-			"ShaderMapHash": "B9E3576FAD619C1BC8E2843E1BE891808B84753A",
-			"Assets": [
-				"/Game/MainGame/Assets/Materials/M_ForceField"
-			]
-		},
-		{
-			"ShaderMapHash": "E0DC9085E3D2CF0BA052689AC89A997EE499F817",
-			"Assets": [
-				"/Game/MainGame/Assets/Materials/M_ProjectileShrink"
-			]
-		},
-		{
-			"ShaderMapHash": "09FEE244E0247E5271591569C6304EA18B4ED1CD",
-			"Assets": [
-				"/Game/MainGame/Assets/Materials/M_CustomGlass"
+				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial"
 			]
 		}
 	]
